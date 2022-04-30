@@ -1,0 +1,12 @@
+.heading {
+    background-color: #ab8519;
+    padding: 1px;
+    margin-bottom: 4%;
+}
+.heading h1 {
+    margin-left: 1%;
+}
+.btn-div {
+    float: right;
+    /* border: none; */
+}
